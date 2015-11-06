@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta chanset="UTF-8"/>
+<title>Dino Pelis</title>
+<style>
+body{
+background-color: green;
+}
+h2.titulo{
+text-align: center;
+color: black;
+font-size: 400%;
+}
+p.pelis{
+font-size: 200%;
+}
+p.nombre{
+margin-left: 5%;
+}
+p.series{
+font-size: 200%;}
+p.nombresSeries{
+margin-left: 5%;
+}
+p.documentales{
+font-size: 200%;}
+p.nombresDocumentales{
+margin-left: 5%;
+}
+</style>
+</head>
+<body>
+<h2 class=titulo>Dino World</h2>
+<p class=pelis>Peliculas</p>
+<p class=nombre>Jurassic park</p>
+<p class=nombre>Jurassic park II</p>
+<p class=nombre>Jurassic park III</p>
+<p class=nombre>Jurassic park World</p>
+<p class=nombre>Mundo perdido</p>
+<hr/>
+<p class=series>Series</p>
+<p class=nombresSeries>El valle encantado</p>
+<hr/>
+<p class=documentales>Documentales</p>
+<p class=nombresDocumentales>Documentales</p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2993.637384575546!2d2.068827414965036!3d41.381962404295244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4997f4e33a13b%3A0x192be46ae362ecc4!2sCarrer+Font%2C+60%2C+08960+Sant+Just+Desvern%2C+Barcelona!5e0!3m2!1ses!2ses!4v1445286680857" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=bydan5501%40gmail.com&ctz=Europe/Madrid" style="border: 0" width="300" height="200" frameborder="0" scrolling="no"></iframe>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-69066509-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
+# primera-web-Dani
